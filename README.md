@@ -10,7 +10,7 @@
 🔭 Exploring Kubernetes scaling & Helm optimizations.  
 🎯 Implementing GitOps workflows with ArgoCD for declarative deployments.  
 ☁️ Building scalable infrastructure on AWS using Terraform.  
-🌐 Check out my website: [passw0rd404.github.io/Abdullah-Sameh](https://passw0rd404.github.io/Abdullah-Sameh/)
+🌐 Check out my website: [passw0rd404.github.io/Abdullah-Sameh](https://abdullahsameh.qzz.io/)
  
 ---
  
@@ -42,7 +42,7 @@
  
 ### 📫 Connect with Me
  
-[![Website](https://img.shields.io/badge/-Website-00F5E0?style=flat-square&logo=google-chrome&logoColor=black)](https://passw0rd404.github.io/Abdullah-Sameh/)  
+[![Website](https://img.shields.io/badge/-Website-00F5E0?style=flat-square&logo=google-chrome&logoColor=black)](https://abdullahsameh.qzz.io/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-sameh-0a3063366/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Passw0rd404)  
  
