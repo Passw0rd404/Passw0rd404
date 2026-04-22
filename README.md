@@ -10,7 +10,7 @@
 🔭 Exploring Kubernetes scaling & Helm optimizations.  
 🎯 Implementing GitOps workflows with ArgoCD for declarative deployments.  
 ☁️ Building scalable infrastructure on AWS using Terraform.  
-🌐 Check out my website: [passw0rd404.github.io/Abdullah-Sameh](https://abdullahsameh.qzz.io/)
+🌐 Check out my website: [abdullahsameh.qzz.io](https://abdullahsameh.qzz.io/)
  
 ---
  
