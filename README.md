@@ -33,13 +33,6 @@
 </p>
 ---
  
-### ⚡ GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Passw0rd404&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
----
- 
 ### 📫 Connect with Me
  
 [![Website](https://img.shields.io/badge/-Website-00F5E0?style=flat-square&logo=google-chrome&logoColor=black)](https://abdullahsameh.qzz.io/)  
