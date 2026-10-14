@@ -1,45 +1,38 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F5E0&width=600&lines=Hello!+%F0%9F%91%8B+I'm+Abdullah+Sameh!" alt="Typing SVG" />
-# Hi there 🚀
- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5E0&width=435&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+%7C+Kubernetes;GitOps+with+ArgoCD+%7C+IaC+Expert;Monitoring+with+Prometheus+%26+Grafana;Always+learning+and+building!)
- 
-## 👨‍💻 About Me
- 
-💡 Passionate about cloud-native technologies and automation.  
-📈 Improving CI/CD pipelines and system observability.  
-🔭 Exploring Kubernetes scaling & Helm optimizations.  
-🎯 Implementing GitOps workflows with ArgoCD for declarative deployments.  
-☁️ Building scalable infrastructure on AWS using Terraform.  
-🌐 Check out my website: [abdullahsameh.qzz.io](https://abdullahsameh.qzz.io/)
- 
+# Abdullah Sameh
+
+**DevOps Engineer · Cloud Infrastructure · Automation**
+
+I build automated, observable, and reproducible infrastructure using AWS, Terraform, Kubernetes, and GitOps.
+
+[Website](https://abdullahsameh.tech) · [LinkedIn](https://www.linkedin.com/in/abdullah-sameh-0a3063366/) · [Email](mailto:abdullah.sameh40404@gmail.com)
+
 ---
- 
-### 🛠️ Tech Stack
- 
+
+### Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,helm,ansible,linux,bash,python,githubactions,git,argo,grafana,prometheus&perline=7" alt="AWS, Terraform, Docker, Kubernetes, Helm, Ansible, Linux, Bash, Python, GitHub Actions, Git, Argo CD, Grafana, Prometheus" />
 </p>
+
+### GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Passw0rd404&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passw0rd404&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Passw0rd404&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Passw0rd404&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
 ---
- 
-### 📫 Connect with Me
- 
-[![Website](https://img.shields.io/badge/-Website-00F5E0?style=flat-square&logo=google-chrome&logoColor=black)](https://abdullahsameh.qzz.io/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-sameh-0a3063366/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Passw0rd404)  
- 
----
- 
-💡 _"Continuous learning drives innovation. Let's build something amazing together!"_
- 
+
+<p align="center">
+  <sub>Building reliable systems, one automation at a time.</sub>
+</p>
