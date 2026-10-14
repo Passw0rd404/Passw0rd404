@@ -10,9 +10,11 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 
 ### Tech Stack
 
+```html
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,helm,linux,bash,python,githubactions,git,grafana,prometheus&perline=6" alt="AWS, Terraform, Docker, Kubernetes, Helm, Linux, Bash, Python, GitHub Actions, Git, Grafana, Prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,python,githubactions,git,grafana,prometheus&perline=6" alt="DevOps tech stack" />
 </p>
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
