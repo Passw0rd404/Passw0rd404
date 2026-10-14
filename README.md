@@ -11,16 +11,17 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,python,githubactions,git,grafana,prometheus,kustomize&perline=6" alt="DevOps tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,python,githubactions,git,grafana,prometheus&perline=6" alt="DevOps tech stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Loki" />
-  <img src="https://img.shields.io/badge/Tempo-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Tempo" />
-  <img src="https://img.shields.io/badge/Mimir-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Mimir" />
-  <img src="https://img.shields.io/badge/Alloy-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana Alloy" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=F5A800" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Alloy" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Tempo" />
+  <img src="https://img.shields.io/badge/Mimir-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Mimir" />
 </p>
 
 ### GitHub Stats
