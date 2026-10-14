@@ -11,10 +11,11 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,helm,argo,linux,bash,python,githubactions,git,grafana,prometheus&perline=7" alt="AWS, Terraform, Docker, Kubernetes, Helm, Argo CD, Linux, Bash, Python, GitHub Actions, Git, Grafana, Prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,helm,linux,bash,python,githubactions,git,grafana,prometheus&perline=6" alt="AWS, Terraform, Docker, Kubernetes, Helm, Linux, Bash, Python, GitHub Actions, Git, Grafana, Prometheus" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Loki" />
   <img src="https://img.shields.io/badge/Tempo-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Tempo" />
   <img src="https://img.shields.io/badge/Mimir-000000?style=flat-square&logo=grafana&logoColor=F46800" alt="Mimir" />
