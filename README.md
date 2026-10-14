@@ -24,7 +24,7 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
