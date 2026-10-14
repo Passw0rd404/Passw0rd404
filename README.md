@@ -10,22 +10,33 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 
 ### Tech Stack
 
+### Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=F5A800" alt="OpenTelemetry" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="Argo CD" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Loki-18181B?style=flat-square&logo=grafana&logoColor=F46800" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Mimir-18181B?style=flat-square&logo=grafana&logoColor=F46800" alt="Mimir"/>
+  <img src="https://img.shields.io/badge/Tempo-18181B?style=flat-square&logo=grafana&logoColor=F46800" alt="Tempo"/>
+  <img src="https://img.shields.io/badge/Grafana_Alloy-18181B?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana Alloy"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-18181B?style=flat-square&logo=opentelemetry&logoColor=F5A800" alt="OpenTelemetry"/>
 </p>
 
 ### GitHub Stats
