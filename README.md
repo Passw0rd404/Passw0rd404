@@ -10,8 +10,6 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 
 ### Tech Stack
 
-### Tech Stack
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
