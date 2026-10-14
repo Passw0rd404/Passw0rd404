@@ -11,7 +11,7 @@ Building automated, observable, and reproducible infrastructure with AWS, Terraf
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,python,githubactions,git,grafana,prometheus&perline=6" alt="DevOps tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,python,githubactions,git,grafana,prometheus,docker&perline=6" alt="DevOps tech stack" />
 </p>
 
 <p align="center">
